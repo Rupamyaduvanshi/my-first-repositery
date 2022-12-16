@@ -1,0 +1,102 @@
+/* h1{
+    background-color: blueviolet;
+    color: blue;
+    border-style: solid;
+    margin: 50px;
+    padding: 10px;
+    border-radius: 10px;
+
+
+}
+body{
+    background-image: url("/letter-ry-logo-design-business-260nw-1878392827.webp");
+    background-repeat: no-repeat;
+    background-position: top center;
+    border-style: double;
+    border-width: 10px;
+    border-color: blueviolet;
+    border: 10px solid purple
+}
+div{
+    background-color: aqua;
+    border: 10px;
+}
+span{ background-color: blueviolet;
+color: brown;
+}
+img{
+    border-style: solid;
+    border-color: red;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-width: 100px;
+}  
+h1{ background-color: aqua;
+color: white;
+padding: 10px;
+text-align: center;
+text-decoration-line: overline underline;
+text-decoration-style: double;
+text-transform: capitalize;
+
+
+}
+
+
+p{text-indent:100px;
+    letter-spacing: 5px;
+word-spacing: 5px;
+line-height: 50px;
+text-shadow: 2px 2px 5px purple;
+}
+a{ background-color: aqua; 
+margin: 20px;
+text-align: center;
+text-decoration: underline;
+display: block;
+color: blue;
+}
+
+
+
+h1{ background-color: aqua;
+    color:purple 
+
+}
+div{ height: 150px;
+    border: 5px solid plum;
+    overflow: auto;
+
+
+
+}
+table ,td , th {
+    border: 2px solid purple;
+}
+table{
+     border-collapse:collapse;
+     width: 100%;
+}
+td{
+    text-align: center;
+    background-color: aqua;
+}
+tr{
+    background-color: yellow;
+} */
+/* #bengan{
+    border: 2px solid yellow;
+    background-color: aqua;
+}
+#mung{
+    border: 2px solid purple;
+    background-color: blueviolet;
+} */
+/* .same{
+    background-color: brown;
+} */
+h1{color: purple;
+    opacity: 0.2;
+    background-color: aqua;
+float: right;
+}
